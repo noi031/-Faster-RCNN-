@@ -1,0 +1,3 @@
+directory "images" stores all images
+directory "labels" stores all labels
+run prepare_train_dev.py in the root directory which contains these two sub-directories
